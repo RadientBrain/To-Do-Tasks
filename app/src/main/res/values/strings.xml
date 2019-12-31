@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Task Management App</string>
+    <string name="operation_on_task">Edit Your Task</string>
+    <string name="update_title">Title</string>
+    <string name="update_note">Note</string>
+    <string name="delete_task">DELETE</string>
+    <string name="update_task">UPDATE</string>
+    <string name="save_your_daily_task">Save Your Daily Task</string>
+    <string name="input_title">Title</string>
+    <string name="input_note">Note</string>
+    <string name="save_task">SAVE</string>
+    <string name="cancel_task">CANCEL</string>
+    <string name="empty_title">Empty Title</string>
+    <string name="empty_note">Empty Note</string>
+    <string name="edit_task_item">Edit Task</string>
+    <string name="delete_task_item">Delete Task</string>
+    <string name="click_on_the_button_down_to_add_your_tasks">Click on the Button down to Add Your Tasks</string>
+    <string name="log_out_titlebar">Log out</string>
+    <string name="date_item">Date</string>
+    <string name="title_item">Title</string>
+    <string name="note_item">Note</string>
+    <string name="icon">٩(˘◡˘)۶</string>
+    <string name="space">--------------</string>
+    <string name="splash_title">ToDo   \t \t \t \t \t \t\t\t\t\t\t\t\t\t Tasks</string>
+</resources>

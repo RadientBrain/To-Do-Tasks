@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A6F33939</color>
+    <color name="colorPrimaryDark">#A6F33939</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="customRed">#BCEB4034</color>
+    <color name="customOrange">#FCCB37</color>
+    <color name="customAzure">#E9C355</color>
+    <color name="customYellow">#f7fa52</color>
+    <color name="customPink">#88EB04FC</color>
+    <color name="customGreen">#66010A00</color>
+    <color name="background">#dddddd</color>
+    <color name="shimmerBackground">#B2E89CEE</color>
+    <color name="customBlack">#B9000000</color>
+
+</resources>
